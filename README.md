@@ -76,10 +76,12 @@ flowchart TD
 
 ## 📈 Resultados
 
-> Exemplos do que medir:
-> - 🔄 % de leads reativados que voltam a responder
-> - 📅 Agendamentos recuperados de leads que tinham sumido
-> - 💸 Receita resgatada por mês via follow-up automático
+- 🔄 **Reativa lead parado** com mensagem que parece humana — não some receita por silêncio.
+- 📅 **Recupera agendamento** de quem já tinha sumido da conversa.
+- 🧠 Lembra do que já foi falado (memória compartilhada) — não repete argumento nem soa robótico.
+- 🤝 Recua na hora se um atendente humano assume o lead.
+
+<!-- iTristaoo: se tiver número real, some aqui (ex: "X% dos leads reativados voltam a responder"). Não invente. -->
 
 ---
 
@@ -87,3 +89,12 @@ flowchart TD
 
 - [ai-receptionist-clinics](https://github.com/iTristaoo/ai-receptionist-clinics) — o agente principal cuja memória este follow-up reaproveita
 - [rag-knowledge-base](https://github.com/iTristaoo/rag-knowledge-base) — a base que dá contexto real às mensagens
+- [multitenant-clinic-dashboard](https://github.com/iTristaoo/multitenant-clinic-dashboard) — onde a clínica acompanha os follow-ups (`/followup`)
+
+---
+
+## 📲 Quer um agente desses no seu negócio?
+
+**Construo automações e agentes de IA sob medida.** Bora conversar — me chama.
+
+<!-- iTristaoo: troque pelos seus links reais → ex: [WhatsApp](https://wa.me/55SEUNUMERO) · [Email](mailto:seu@email.com) -->
